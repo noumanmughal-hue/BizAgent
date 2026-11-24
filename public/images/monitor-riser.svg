@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8EAED"/>
+      <stop offset="1" stop-color="#D3D6DB"/>
+    </linearGradient>
+    <linearGradient id="maroon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8C1D36"/>
+      <stop offset="1" stop-color="#5E1224"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+
+  <ellipse cx="300" cy="352" rx="200" ry="12" fill="#000" opacity="0.12"/>
+  <rect x="165" y="52" width="270" height="168" rx="12" fill="#000"/>
+  <rect x="178" y="64" width="244" height="138" rx="4" fill="#2E3238"/>
+  <path d="M178 64h150L230 202h-52z" fill="#FFFFFF" opacity="0.07"/>
+  <rect x="198" y="86" width="90" height="10" rx="5" fill="#8C1D36"/>
+  <rect x="198" y="106" width="140" height="7" rx="3.5" fill="#D3D6DB" opacity="0.5"/>
+  <rect x="198" y="120" width="120" height="7" rx="3.5" fill="#D3D6DB" opacity="0.5"/>
+  <rect x="198" y="146" width="60" height="38" rx="4" fill="#5E1224"/>
+  <rect x="268" y="146" width="60" height="38" rx="4" fill="#D3D6DB" opacity="0.3"/>
+  <rect x="338" y="146" width="60" height="38" rx="4" fill="#D3D6DB" opacity="0.3"/>
+  <rect x="287" y="220" width="26" height="34" fill="#2E3238"/>
+  <rect x="245" y="250" width="110" height="12" rx="6" fill="#000"/>
+  <rect x="120" y="262" width="360" height="26" rx="7" fill="url(#maroon)"/>
+  <rect x="120" y="262" width="360" height="6" rx="3" fill="#FFFFFF" opacity="0.18"/>
+  <rect x="140" y="288" width="26" height="60" rx="4" fill="#5E1224"/>
+  <rect x="434" y="288" width="26" height="60" rx="4" fill="#5E1224"/>
+  <rect x="196" y="322" width="208" height="24" rx="5" fill="#2E3238"/>
+  <rect x="208" y="328" width="184" height="4" rx="2" fill="#D3D6DB" opacity="0.55"/>
+  <rect x="208" y="336" width="184" height="4" rx="2" fill="#D3D6DB" opacity="0.55"/>
+</svg>
